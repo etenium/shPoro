@@ -35,10 +35,16 @@ Simple pomodoro timer bash script.
     ```
 
     **Note:** Setting long break interval to 0 will disables long breaks.
-[pomofocus.io audio file](https://pomofocus.io/audios/kichen-timer.mp3)
 
 <details>
-<summary>Some sounds from popular sites</summary>
-[pomofocus.io audio file](https://pomofocus.io/audios/kichen-timer.mp3)
-
+  <summary>Sounds from popular sites</summary>
+  https://pomofocus.io/audios/kichen-timer.mp3 <br>
+  https://pomodoro-tracker.com/static/sounds/bell.mp3 <br>
+  https://pomodorotimer.online/_nuxt/static/alarms/sound_2.mp3 <br>
+  https://app.pomodorotimer.online/_nuxt/static/music/alarms/sound%202.mp3 <br>
+  https://studywithme.io/aesthetic-pomodoro-timer/31e0048360fd4d397735.mp3 <br>
+  https://studywithme.io/aesthetic-pomodoro-timer/a2b96f39601029939b69.mp3 <br>
+  https://studywithme.io/aesthetic-pomodoro-timer/f371867fd7c7e3728583.mp3 <br>
+  https://studywithme.io/aesthetic-pomodoro-timer/2c511093a1edaedef710.mp3 <br>
 </details>
+
