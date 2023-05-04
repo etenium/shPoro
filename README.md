@@ -34,5 +34,5 @@ Simple pomodoro timer bash script.
     ./pomodoro.sh
     ```
 
-    **Note:** Setting long break interval to 0 disables long breaks
+    **Note:** Setting long break interval to 0 will disables long breaks.
 
