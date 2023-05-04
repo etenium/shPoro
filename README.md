@@ -36,3 +36,7 @@ Simple pomodoro timer bash script.
 
     **Note:** Setting long break interval to 0 will disables long breaks.
 
+<details>
+<summary>Some sounds from popular sites</summary>
+[pomofocus.io](https://pomofocus.io/audios/kichen-timer.mp3)
+</details>
