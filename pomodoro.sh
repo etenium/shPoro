@@ -11,16 +11,16 @@ BOLD='\033[1m'
 RESET='\033[0m'
 
 clear
-echo -e "${WHITE}${BOLD}Length of the pomodoro: ${RESET}"
+echo -en "${WHITE}${BOLD}Length of the pomodoro: ${RESET}"
 read countdown_minutes
 clear
-echo -e "${WHITE}${BOLD}Length of the break:${RESET}"
+echo -en "${WHITE}${BOLD}Length of the break: ${RESET}"
 read break_minutes
 clear
-echo -e "${WHITE}${BOLD}Length of the longer break:${RESET}"
+echo -en "${WHITE}${BOLD}Length of the longer break: ${RESET}"
 read longer_break_minutes
 clear
-echo -e "${WHITE}${BOLD}Countdowns before the longer break:${RESET}"
+echo -en "${WHITE}${BOLD}Countdowns before the longer break: ${RESET}"
 read countdowns_before_longer_break
 clear
 countdowns_completed=0
@@ -57,7 +57,7 @@ while true; do
         fi
     fi
 
-    echo -e "${WHITE}${BOLD}Do you want to start a $break_minutes minute break? (Y/n) ${RESET}"
+    echo -en "${WHITE}${BOLD}Do you want to start a $break_minutes minute break? (Y/n) ${RESET}"
     read -n 1 start_break
     clear
     if [ "$start_break" = "" ] || [ "$start_break" = "y" ] || [ "$start_break" = "Y" ]; then
@@ -77,7 +77,7 @@ while true; do
 
         mpg123 -q $SOUND_FILE_PATH &
 
-        echo -e "${WHITE}${BOLD}Do you want to continue the pomodoro? (Y/n) ${RESET}"
+        echo -en "${WHITE}${BOLD}Do you want to continue the pomodoro? (Y/n) ${RESET}"
         read -n 1 restart
         clear
         if [ "$restart" = "" ] || [ "$restart" = "y" ] || [ "$restart" = "Y" ]; then
