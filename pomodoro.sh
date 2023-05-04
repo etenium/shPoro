@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# ⌄⌄⌄Make sure to set path to the file here⌄⌄⌄
 SOUND_FILE_PATH="/path/to/file.mp3"
 
 RED='\033[0;31m'
