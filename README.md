@@ -22,7 +22,7 @@ Simple pomodoro timer bash script.
 
     `sudo zypper install mpg123 libnotify-tools`
 
-2.  Specify sound file in the pomodoro.sh in
+2.  Specify sound file in the pomodoro.sh
 
     ```
     SOUND_FILE_PATH="/path/to/file.mp3"
