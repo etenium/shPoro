@@ -33,18 +33,24 @@ Simple pomodoro timer bash script.
     ```
     ./pomodoro.sh
     ```
+**Note 1:** Make sure to make the sh file executable using ```chmod +x pomodoro.sh``` 
+**Note 2:** Setting long break interval to 0 will disables long breaks.
+## Sounds from popular sites
+  [pomofocus.io](https://pomofocus.io/audios/kichen-timer.mp3)
+  
+  [pomodoro-tracker.com](https://pomodoro-tracker.com/static/sounds/bell.mp3)
+  
+  [pomodorotimer.online - Sound 1](https://pomodorotimer.online/_nuxt/static/alarms/sound_2.mp3) 
+  
+  [pomodorotimer.online - Sound 2](https://app.pomodorotimer.online/_nuxt/static/music/alarms/sound%202.mp3)
+  
+  [studywithme.io - Chime](https://studywithme.io/aesthetic-pomodoro-timer/31e0048360fd4d397735.mp3) 
+  
+  [studywithme.io - Bell](https://studywithme.io/aesthetic-pomodoro-timer/a2b96f39601029939b69.mp3) 
+  
+  [studywithme.io - Birds](https://studywithme.io/aesthetic-pomodoro-timer/f371867fd7c7e3728583.mp3)
+  
+  [studywithme.io - Lofi](https://studywithme.io/aesthetic-pomodoro-timer/2c511093a1edaedef710.mp3) 
+  
 
-    **Note:** Setting long break interval to 0 will disables long breaks.
-
-<details>
-  <summary>Sounds from popular sites</summary>
-  https://pomofocus.io/audios/kichen-timer.mp3 <br>
-  https://pomodoro-tracker.com/static/sounds/bell.mp3 <br>
-  https://pomodorotimer.online/_nuxt/static/alarms/sound_2.mp3 <br>
-  https://app.pomodorotimer.online/_nuxt/static/music/alarms/sound%202.mp3 <br>
-  https://studywithme.io/aesthetic-pomodoro-timer/31e0048360fd4d397735.mp3 <br>
-  https://studywithme.io/aesthetic-pomodoro-timer/a2b96f39601029939b69.mp3 <br>
-  https://studywithme.io/aesthetic-pomodoro-timer/f371867fd7c7e3728583.mp3 <br>
-  https://studywithme.io/aesthetic-pomodoro-timer/2c511093a1edaedef710.mp3 <br>
-</details>
 
