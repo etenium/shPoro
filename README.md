@@ -1,4 +1,4 @@
-## shPomo
+## shPoro
 
 Simple pomodoro timer bash script.
 
